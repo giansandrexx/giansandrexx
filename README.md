@@ -3,8 +3,8 @@
 
 <h3 align="left">My Social Media:</h3>
 <p align="left">
-<a href="https://fb.com/giansandrexx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="giansandrexx" height="30" width="40" /> @giansandrexx</a>
-<a href="https://instagram.com/giansandrexx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="giansandrexx" height="30" width="40" /></a>
+<a href="https://fb.com/giansandrexx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="giansandrexx" height="30" width="40" /></a> @giansandrexx
+<a href="https://instagram.com/giansandrexx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="giansandrexx" height="30" width="40" /></a> @giansandrexx
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
