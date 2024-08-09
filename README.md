@@ -3,7 +3,7 @@
 
 <h3 align="left">My Social Media:</h3>
 <p align="left">
-<a href="https://fb.com/giansandrexx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="giansandrexx" height="30" width="40" /></a> @giansandrexx
+<a href="https://fb.com/giansandrexx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="giansandrexx" height="30" width="40" /></a> @giansandrexx <br>
 <a href="https://instagram.com/giansandrexx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="giansandrexx" height="30" width="40" /></a> @giansandrexx
 </p>
 
