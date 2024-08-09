@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Gian Sandrex! 👋</h1>
 <h3 align="center">A passionate programmer and developer student from Philippines 🇵🇭.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Social Media:</h3>
 <p align="left">
-<a href="https://fb.com/giansandrexx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="giansandrexx" height="30" width="40" /></a>
+<a href="https://fb.com/giansandrexx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="giansandrexx" height="30" width="40" /> @giansandrexx</a>
 <a href="https://instagram.com/giansandrexx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="giansandrexx" height="30" width="40" /></a>
 </p>
 
