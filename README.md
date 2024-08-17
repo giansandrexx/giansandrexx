@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Gian Sandrex! 👋</h1>
-<h3 align="center">A passionate programmer and developer student from Philippines 🇵🇭.</h3>
 
 <h3 align="left">My Social Media:</h3>
 <p align="left">
