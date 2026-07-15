@@ -27,10 +27,4 @@
 <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=giansandrexx&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giansandrexx&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
