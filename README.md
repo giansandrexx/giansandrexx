@@ -1,11 +1,9 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gian%20Sandrex&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Builder%20%7C%20Explorer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Gian+Sandrex+%F0%9F%91%8B;C+%2F+C%2B%2B+%2F+Java+%2F+Python+Developer;Flutter+%26+Dart+Mobile+Dev;Always+learning+something+new!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Gian+Sandrex+%F0%9F%91%8B;C+%2F+C%2B%2B+%2F+Java+%2F+Python+Developer;Always+learning+something+new!" alt="Typing SVG" />
 </a>
-
 </div>
 
 <h3 align="left">🌐 Connect with me:</h3>
